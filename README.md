@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mohammad Zaid 👋
+### Data Scientist | ML Engineer | Analyst | LLM & Generative AI
 
-<!--
-**zaidmohd070331/zaidmohd070331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Data Science  
+📍 Wakad, Pune | 📧 iammohdzaid92@gmail.com  
+🔗 [LinkedIn] : (https://www.linkedin.com/in/zaidmohd070331)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- Build & deploy ML models (classification, regression, time series)
+- Design RAG pipelines & LLM-based generative AI workflows
+- Deploy models on AWS EC2/S3 with Streamlit
+- Create BI dashboards in Power BI & Tableau
+
+
+## 📌 Featured Projects
+| [RAG Pipeline](#) | Generative AI retrieval pipeline | Python, NLP, Scikit-learn |
+| [Churn Prediction](#) | 85% accuracy classification | Python, Random Forest, Power BI |
+| [Sales Forecasting](#) | 90% accuracy ARIMA model | Python, Statsmodels, Power BI |
+| [AWS ML Deployment](#) | Real-time inference on cloud | AWS EC2/S3, Streamlit |
+
+## 📜 Certifications
+- Claude 101 – Anthropic (Mar 2026)
+- AI Tools & Chatgpt Certificate (March 2026)
+- Data Science Certified – CISCO (Feb 2026)
+- Power BI + AI Integration (Dec 2025)
+- AWS Fundamentals of Analytics – Amazon Web Services (Sept 2025)
+
+  
