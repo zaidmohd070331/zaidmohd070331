@@ -63,7 +63,7 @@
 - Documented pipeline design and breach-reporting logic
 
 `Python` `SQL` `Power BI` `REST APIs` `KRI`
-
+[View Repository →](https://github.com/zaidmohd070331/regulatory-compliance-dashboard)
 ---
 
 ### 🔵 Customer Risk Prediction Model
