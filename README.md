@@ -52,7 +52,7 @@
 - Structured MI reports with scoring methodology and risk mitigation recommendations
 
 `Python` `SQL` `Power BI` `DAX` `Pandas`
-
+[View Repository →](https://github.com/zaidmohd070331/operational-risk-heatmap)
 ---
 
 ### 🟢 Regulatory Compliance Monitoring Dashboard
