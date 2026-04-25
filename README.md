@@ -41,7 +41,7 @@
 - Evaluated using Precision, Recall, ROC-AUC with MI-ready documentation
 
 `Python` `Scikit-learn` `Pandas` `NumPy` `SMOTE` `AML`
-
+[View Repository →](https://github.com/zaidmohd070331/fraud-detection-aml-risk-modelling)
 ---
 
 ### 🟡 Operational Risk Heatmap & Control Effectiveness Scoring
